@@ -72,15 +72,6 @@ Sou um **Entusiasta** apaixonado por tecnologia, com experiência em **Python, N
 
 ---
 
-## 🏆 Certificações
-- Módulo Seguro AUTO
-- TOTVS Fluig Express
-- Fundamentos de Programação: Bancos de Dados
-- Java Script COMPLETO
-- Fundamentos do Scrum
-
----
-
 ## 📫 Contato
 - LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/cbortotti)
 - GitHub: [Meu GitHub](https://github.com/itsbortotti)
