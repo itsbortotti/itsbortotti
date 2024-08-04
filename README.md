@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Cainã Bortotti
 
 ## Sobre Mim
-Sou um **Entusiasta** apaixonado por tecnologia, com experiência em **Python, Node.js, TypeScript, React, AWS, MongoDB, NestJS, SQL** e **JavaScript**. Minha missão é criar soluções de software personalizadas que alinhem expertise técnica com as necessidades específicas dos clientes.
+Sou um **Entusiasta** apaixonado por tecnologia, com experiência em **Diversas Liguagens de programação**. Minha missão é criar soluções de software personalizadas que alinhem expertise técnica com as necessidades específicas dos clientes.
 ---
 
 ## 💻 Linguagens de Programação
