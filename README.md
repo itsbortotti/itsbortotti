@@ -10,6 +10,8 @@ Sou um **Entusiasta** apaixonado por tecnologia, com experiência em Diversas Li
 - TypeScript
 - React
 - SQL
+- MongoDB
+- PostgreeSQL
 - JavaScript
 - C#
 - Next.js
